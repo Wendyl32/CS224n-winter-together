@@ -1,1 +1,0 @@
-![avatar](./char_nmt.jpg)
